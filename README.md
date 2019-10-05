@@ -1,2 +1,1 @@
-# learn-tensorflow
-Learning material for tensorflow
+# This is my personal space for learning tensorflow
